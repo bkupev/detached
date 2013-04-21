@@ -1,0 +1,5 @@
+D:\Projects\NASA Space Apps Challenge\Implementation\Orchard.Source.1.6\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.dll
+D:\Projects\NASA Space Apps Challenge\Implementation\Orchard.Source.1.6\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.pdb
+D:\Projects\NASA Space Apps Challenge\Implementation\Orchard.Source.1.6\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache
+D:\Projects\NASA Space Apps Challenge\Implementation\Orchard.Source.1.6\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
+D:\Projects\NASA Space Apps Challenge\Implementation\Orchard.Source.1.6\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb
